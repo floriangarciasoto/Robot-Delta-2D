@@ -1,9 +1,9 @@
 # Robot Delta 2D
 
-- Thomas VILLEMEZ
-- Pauline JEANNE
-- Sami BEL YAAGOUBI
-- Florian GARCIA
+Thomas VILLEMEZ
+JEANNE Pauline
+BEL YAAGOUBI Sami
+GARCIA Florian
 
 ## Le projet en soi
 

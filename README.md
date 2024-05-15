@@ -1,6 +1,6 @@
 # Robot Delta 2D
 
-Thomas VILLEMEZ<br/>
+VILLEMEZ Thomas<br/>
 JEANNE Pauline<br/>
 BEL YAAGOUBI Sami<br/>
 GARCIA Florian
